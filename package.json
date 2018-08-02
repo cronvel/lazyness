@@ -1,6 +1,6 @@
 {
   "name": "lazyness",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Various lazy loaders.",
   "main": "lib/Lazyness.js",
   "engines": {
